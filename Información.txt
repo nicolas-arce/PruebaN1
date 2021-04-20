@@ -2,3 +2,4 @@ Nicolas arce bolivar
 Jennifer  urquiola lopez
 Seccion  PGY3121-007D
 https://github.com/nicolas-arce/PruebaN1.git
+nombre repositorio: PruebaN1
